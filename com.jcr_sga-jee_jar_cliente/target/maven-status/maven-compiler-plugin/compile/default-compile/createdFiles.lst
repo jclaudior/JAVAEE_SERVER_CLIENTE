@@ -1,0 +1,5 @@
+com\jcr\sga\service\PessoaServiceRemote.class
+com\jcr\sga\domain\Usuario.class
+com\jcr\sga\domain\Pessoa.class
+com\jcr\sga\cliente\ProvaManuseioTransacoes.class
+com\jcr\sga\cliente\ClientePessoaService.class
